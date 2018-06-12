@@ -35,13 +35,14 @@ docker run -d --rm d-redis
 
 ## Authors （作者）
 
-*Frank Q Liu** -- [PurpleBooth](https://github.com/franquil) 
+*Frank Q Liu* -- [Franquil](https://github.com/franquil) 
 
 
 ## Reference (参考)
 
-- [dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+- [dockerfile reference] (https://docs.docker.com/engine/reference/builder/)
 - [redis] (https://redis.io/)
+- [redis docker] (https://hub.docker.com/_/redis/)
 
 ## License （版权）
 
