@@ -22,14 +22,26 @@ cd docker-redis
 
 *Build the image* (构建镜像)
 
+*d-redis* is the image name that is going to build, default tag:latest.
+
 ```
 docker build -t d-redis .
 ```
 
 *Run it* (运行程序)
 
+Run a container called *d-redis-container* from the image just built.
+
 ```
-docker run -d --rm d-redis
+docker run --name d-redis-container -d --rm d-redis
+```
+
+More useage examples please see [Redis docker] (https://hub.docker.com/_/redis/).
+
+*Stop it* (结束运行)
+
+```
+docker stop d-redis-container
 ```
 
 
