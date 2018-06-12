@@ -47,7 +47,7 @@ docker stop d-redis-container
 
 ## Authors （作者）
 
-*Frank Q Liu* -- [Franquil](https://github.com/franquil) 
+*Frank Q Liu* -- [Franquil] (https://github.com/franquil) 
 
 
 ## Reference (参考)
@@ -55,6 +55,8 @@ docker stop d-redis-container
 - [dockerfile reference] (https://docs.docker.com/engine/reference/builder/)
 - [redis] (https://redis.io/)
 - [redis docker] (https://hub.docker.com/_/redis/)
+- [sameersbn/docker-redis](https://github.com/sameersbn/docker-redis)
+- [bitnami/bitnami-docker-redis](https://github.com/bitnami/bitnami-docker-redis)
 
 ## License （版权）
 
